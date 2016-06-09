@@ -13,9 +13,7 @@ var romanNumberal= function(number){
     }
   }
 
-
-    return result;
-
+  return result;
  };
 
 $(document).ready(function() {
